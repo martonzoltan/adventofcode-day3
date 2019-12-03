@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MzaProject\\adventofcode\\day3\\day3.csproj": {}
+  },
+  "projects": {
+    "D:\\MzaProject\\adventofcode\\day3\\day3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MzaProject\\adventofcode\\day3\\day3.csproj",
+        "projectName": "day3",
+        "projectPath": "D:\\MzaProject\\adventofcode\\day3\\day3.csproj",
+        "packagesPath": "C:\\Users\\Marton Zoltan\\.nuget\\packages\\",
+        "outputPath": "D:\\MzaProject\\adventofcode\\day3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marton Zoltan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://devmodules.report.metrixlab.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/metrixlab/_packaging/DevModulesAzure/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
